@@ -1,0 +1,12 @@
+.maintitle{
+    text-align: center;
+    margin-top: 60px;
+}
+.maintitle h1{
+   
+    font-weight: bold;
+    
+}
+.maintitle p{
+    font-size: 14px;
+}

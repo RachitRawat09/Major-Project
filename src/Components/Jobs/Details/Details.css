@@ -1,0 +1,12 @@
+.btn{
+    background: rgb(20, 227, 220);
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 60px;
+    
+}
+.icons span{
+    margin-right: 20px;
+}

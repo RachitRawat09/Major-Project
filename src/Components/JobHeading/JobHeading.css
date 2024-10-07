@@ -1,0 +1,19 @@
+.jobtitle{
+    
+   
+    margin: 40px 60px;
+}
+.jobtitle h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+.jobtitle p{
+    font-size: 14px;
+}
+.jobtitle a{
+    font-size: 22px;
+}
+.desc{
+    display: flex;
+    justify-content: space-between;
+}
